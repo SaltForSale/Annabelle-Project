@@ -1,0 +1,58 @@
+.bg {
+  background-image: linear-gradient(#000000, #000000, #4d0000);
+  background-attachment: fixed;
+}
+.logo{
+  height: 50px;
+  width: 50px;
+}
+.jumbotron1{
+  background:url("jumbo_pic.png");
+  background-size: cover;
+  background-position: center center;
+  height: 250px;
+}
+.redglow {
+  text-shadow: 0px 0px 10px red, 0px 0px 50px red;
+  font-weight:bold;
+}
+.jumbotron2{
+  margin-top: 50px;
+  background-color:black ;
+  color:darkred;
+}
+card {
+    box-shadow:black;
+    background-color:black;
+ }
+.cardcolor{
+  background-color:#343a40;
+}
+.info{
+    background-color:white ;
+}
+.navbar{
+    background-color:black ;
+}
+.poster{
+  height:950px;
+  width:360px;
+}
+.rlcraft{
+  height:413px;
+  width:300px;
+}
+.infodiv{
+  padding:10px;
+  color:white;
+}
+.carousel {
+  width:640px;
+  height:360px;
+}
+footer{
+  background-color:black ;
+  color:white;
+  margin:0%;
+  padding:10px;
+}
